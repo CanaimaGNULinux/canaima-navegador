@@ -7,7 +7,7 @@ Standards-Version: 3.9.5
 
 Package: canaima-navegador
 Architecture: all
-Depends: iceweasel, iceweasel-l10n-es-es
+Depends: iceweasel, iceweasel-l10n-es-es, icedove, empathy, telepathy-gabble, telepathy-rakia, telepathy-salut, telepathy-idle
 Replaces: iceweasel
 Description: Canaima Navegador
  Personalizaciones al navegador
