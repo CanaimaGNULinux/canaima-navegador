@@ -1,0 +1,4 @@
+prefs.js /etc/iceweasel/profile/
+bookmarks.html /etc/iceweasel/profile/
+canaima-portal.xml /etc/iceweasel/searchplugins/common/
+canaima-wiki.xml /etc/iceweasel/searchplugins/common/

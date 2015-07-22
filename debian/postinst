@@ -1,0 +1,14 @@
+#!/bin/bash
+rm -f /etc/iceweasel/searchplugins/common/debsearch.xml
+rm -f /etc/iceweasel/searchplugins/common/duckduckgo.xml
+rm -f /etc/iceweasel/searchplugins/locale/*/amazon*.xml
+rm -f /etc/iceweasel/searchplugins/locale/*/bing*.xml
+rm -f /etc/iceweasel/searchplugins/locale/*/drae*.xml
+rm -f /etc/iceweasel/searchplugins/locale/*/eBay*.xml
+rm -f /etc/iceweasel/searchplugins/locale/*/twitter*.xml
+rm -f /etc/iceweasel/searchplugins/locale/*/wikipedia*.xml
+rm -f /etc/iceweasel/searchplugins/locale/*/yahoo*.xml
+rm -f /etc/iceweasel/searchplugins/locale/*/google*.xml
+
+#DEBHELPER#
+exit 0
