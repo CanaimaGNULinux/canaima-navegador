@@ -9,6 +9,5 @@ rm -f /etc/iceweasel/searchplugins/locale/*/twitter*.xml
 rm -f /etc/iceweasel/searchplugins/locale/*/wikipedia*.xml
 rm -f /etc/iceweasel/searchplugins/locale/*/yahoo*.xml
 rm -f /etc/iceweasel/searchplugins/locale/*/google*.xml
-
 #DEBHELPER#
 exit 0

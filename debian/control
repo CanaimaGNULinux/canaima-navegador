@@ -2,12 +2,12 @@ Source: canaima-navegador
 Section: metapackages
 Priority: standard
 Maintainer: Jesus Palencia <sinfallas@gmail.com> | Ramses Matos <Halfcross1992@gmail.com>
-Build-Depends: debhelper, cdbs
+Build-Depends: debhelper (>= 9.20150101), cdbs (>= 0.4.130)
 Standards-Version: 3.9.5
 
 Package: canaima-navegador
 Architecture: all
-Depends: iceweasel, iceweasel-l10n-es-es, icedove, empathy, telepathy-gabble, telepathy-rakia, telepathy-salut, telepathy-idle
+Depends: iceweasel (>= 31.8), iceweasel-l10n-es-es (>= 1:31.8), icedove (>= 31.7), empathy (>= 3.12.7), telepathy-gabble (>= 0.18.3), telepathy-rakia (>= 0.8.0), telepathy-salut (>= 0.8.1), telepathy-idle (>= 0.2.0)
 Replaces: iceweasel
 Description: Canaima Navegador
  Personalizaciones al navegador
